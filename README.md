@@ -2,6 +2,9 @@
 
 Ornix transforms desktop chaos into calm, automatically organizing the files you rely on every day. From creative drafts to online downloads, Ornix keeps everything where it belongs—quietly, reliably, and always in sync with how you work.
 
+
+<img width="887" height="548" alt="SCR-20251111-szgp" src="https://github.com/user-attachments/assets/92645aef-986c-47fd-9438-012aafeafd2e" />
+
 ## Why Individuals Love Ornix
 
 - **Effortless Order**: Set it once and let Ornix keep watch. New files are filed away with precision, without the repetitive drag-and-drop routine.
